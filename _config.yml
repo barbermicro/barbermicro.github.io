@@ -1,0 +1,15 @@
+theme: jekyll-theme-hacker
+title: [Barber Lab]
+description: [The personal website and hot takes of Felix Barber.]
+logo: /profile_pic.JPG
+
+social-network-links:
+  email: "felixbarber@nyu.edu"
+  github: felixbarber
+  twitter: FelixBarber9
+  linkedin: felix-barber
+  
+  # Select which social network share links to show in posts
+share-links-active: 
+  twitter: true
+  linkedin: true
