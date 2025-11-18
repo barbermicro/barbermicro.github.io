@@ -2,7 +2,6 @@
 - [Lab Members](./lab_members.html)
 - [Publications](./publications.html)
 - [Research](./research.html)
-- [Posters](./posters.html)
 
 ## Updates
 
