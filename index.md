@@ -1,3 +1,5 @@
+<img src="/assets/TEM_compilation.png" alt="Alt text">
+
 # Home
 - [Lab Members](./lab_members.html)
 - [Publications](./publications.html)
@@ -15,4 +17,4 @@ The [Barber lab](https://microbiology.osu.edu/people/barber.527) is now open, an
 
 Our code is publicly available at [GitHub](https://github.com/felixbarber/WTA_peptidoglycan_nanostructure).
 
-<img src="/images/WT_Tun_5min_v1_20ms_delay.gif" alt="Alt text">
+<img src="/assets/WT_Tun_5min_v1_20ms_delay.gif" alt="Alt text">
