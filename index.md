@@ -23,6 +23,4 @@ Riffe R905, 496 W 12th Ave
 Columbus, OH 43210
 United States
 
-<img src="/assets/WT_Tun_5min_v1_20ms_delay.gif" alt="Tunicamycin treatment of Bacillus subtilis cells">
-
-
+<img src="/assets/office_space.jpg" alt="Barber Lab">
