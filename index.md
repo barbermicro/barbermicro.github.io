@@ -17,10 +17,12 @@ The [Barber lab](https://microbiology.osu.edu/people/barber.527) is now open, an
 
 Our code is publicly available at [GitHub](https://github.com/felixbarber/WTA_peptidoglycan_nanostructure).
 
-<img src="/assets/WT_Tun_5min_v1_20ms_delay.gif" alt="Tunicamycin treatment of Bacillus subtilis cells">
-
 ## Contact
 
 Riffe R905, 496 W 12th Ave
 Columbus, OH 43210
 United States
+
+<img src="/assets/WT_Tun_5min_v1_20ms_delay.gif" alt="Tunicamycin treatment of Bacillus subtilis cells">
+
+
