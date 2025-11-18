@@ -10,7 +10,7 @@ layout: default
 
 <img src="/alli_heeringa.jpg" alt="Alt Text" width="300" height="400">
 
-### [Allison Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
+### [Alli Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
 
 <img src="/Felix_Barber.jpg" alt="Alt Text" width="300" height="400">
 
