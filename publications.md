@@ -2,6 +2,10 @@
 layout: default
 ---
 
+- [Home](.)
+- [Lab Members](./lab_members.html)
+- [Research](./research.html)
+
 
 **Barber, F.**, Yuan, Z., Akbary, Z., Biboy, J., Vollmer, W., Rojas, E. R., (2024). Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure. bioRxiv. <https://doi.org/10.1101/2024.09.02.610702>.
 
