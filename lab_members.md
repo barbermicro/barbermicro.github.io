@@ -4,7 +4,7 @@ layout: default
 
 # Who we are
 
-![Alli headshot](/allison_heeringa.jpg)
+![Alli headshot](/alli_heeringa.jpg)
 ## Allison Heeringa
 Lab Manager
 
