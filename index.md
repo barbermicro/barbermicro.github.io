@@ -15,6 +15,4 @@ The [Barber lab](https://microbiology.osu.edu/people/barber.527) is now open, an
 
 ## Code
 
-Our code is publicly available at GitHub:
-
-[GitHub](https://github.com/felixbarber/WTA_peptidoglycan_nanostructure)
+Our code is publicly available at [GitHub](https://github.com/felixbarber/WTA_peptidoglycan_nanostructure).
