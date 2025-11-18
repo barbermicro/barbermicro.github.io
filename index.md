@@ -9,10 +9,10 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 The [Barber lab](https://microbiology.osu.edu/people/barber.527) is now open, and we welcome applicants at all levels! Please send all inquiries to barber.527@osu.edu. 
 
-
-
 9/3/24: We uploaded our latest paper to bioRxiv! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.biorxiv.org/content/10.1101/2024.09.02.610702v1)
 
 ## Code
 
 Our code is publicly available at [GitHub](https://github.com/felixbarber/WTA_peptidoglycan_nanostructure).
+
+<img src="/images/WT_Tun_5min_v1_20ms_delay.gif" alt="Alt text">
