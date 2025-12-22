@@ -14,7 +14,7 @@ layout: default
 
 <img src="/assets/Leah_Watkins.jpeg" alt="Alt Text" width="300" height="400">
 
-### [Alli Heeringa](https://www.linkedin.com/in/leah-watkins-595167365) — Master's Student
+### [Leah Watkins](https://www.linkedin.com/in/leah-watkins-595167365) — Master's Student
 
 <img src="/assets/Felix_Barber.jpg" alt="Alt Text" width="300" height="400">
 
