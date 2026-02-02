@@ -12,10 +12,6 @@ layout: default
 
 ### [Alli Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
 
-<img src="/assets/Leah_Watkins.jpeg" alt="Alt Text" width="300" height="400">
-
-### [Leah Watkins](https://www.linkedin.com/in/leah-watkins-595167365) — Master's Student
-
 <img src="/assets/Felix_Barber.jpg" alt="Alt Text" width="300" height="400">
 
 ### [Felix Barber](https://felixbarber.com) — PI
