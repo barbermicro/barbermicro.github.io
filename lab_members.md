@@ -12,6 +12,8 @@ layout: default
 
 ### [Alli Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
 
+### Text here
+
 
 <img src="/assets/Felix_Barber.jpg" alt="Alt Text" width="300" height="400">
 
