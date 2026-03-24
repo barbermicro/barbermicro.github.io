@@ -12,7 +12,7 @@ layout: default
 
 ### [Manasvini Subramanian](https://www.linkedin.com/in/manasvini-subramanian-186bb8237/) — Graduate Student
 
-<img src="/assets/alli_heeringa.jpg" alt="Alt Text" width="300" height="400">
+<img src="/assets/blair_banker.png" alt="Alt Text" width="300" height="400">
 
 ### Blair Banker — Undergraduate
 
@@ -20,10 +20,10 @@ layout: default
 
 ### Alana Guo — Undergraduate
 
-<img src="/assets/Felix_Barber.jpg" alt="Alt Text" width="300" height="400">
+<img src="/assets/alli_heeringa.jpg" alt="Alt Text" width="300" height="400">
 
 ### [Alli Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
 
-<img src="/assets/blair_banker.png" alt="Alt Text" width="300" height="400">
+<img src="/assets/Felix_Barber.jpg" alt="Alt Text" width="300" height="400">
 
 ### [Felix Barber](https://felixbarber.com) — PI
