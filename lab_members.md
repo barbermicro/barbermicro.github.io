@@ -8,6 +8,10 @@ layout: default
 
 # Who we are
 
+<img src="/assets/vini_subramanian.png" alt="Alt Text" width="300" height="400">
+
+### [Manasvini Subramanian](https://www.linkedin.com/in/manasvini-subramanian-186bb8237/) — Graduate Student
+
 <img src="/assets/alli_heeringa.jpg" alt="Alt Text" width="300" height="400">
 
 ### [Alli Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
