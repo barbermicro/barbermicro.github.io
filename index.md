@@ -9,6 +9,8 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 ## Updates
 
+3/27/26: Vini Subramanian, a biophysics graduate student, has joined the lab! Welcome, Vini!
+
 The Barber lab is now open, and we welcome applicants at all levels! Please send all inquiries to barber.527@osu.edu. 
 
 We uploaded our latest paper to bioRxiv! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.biorxiv.org/content/10.1101/2024.09.02.610702v2)
