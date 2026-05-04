@@ -9,7 +9,7 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 ## Updates
 
-5/4/26: Congratulations to Blair Banker whose proposal on PbpC function in the divisome was just selected for an ASC Honors undergraduate research scholarship!
+5/4/26: Congratulations to Blair Banker, whose proposal on PbpC function in the divisome was just selected for an OSU Honors undergraduate research scholarship!
 
 3/27/26: Vini Subramanian, a biophysics graduate student, has joined the lab! Welcome, Vini!
 
