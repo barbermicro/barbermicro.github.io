@@ -9,6 +9,8 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 ## Updates
 
+5/4/26: Congratulations to Blair Banker whose proposal on PbpC function in the divisome was just selected for an ASC Honors undergraduate research scholarship!
+
 3/27/26: Vini Subramanian, a biophysics graduate student, has joined the lab! Welcome, Vini!
 
 The Barber lab is now open, and we are always looking for driven, new scientists. If the fundamentals of bacterial growth and form sound like you, get in touch! Please send all inquiries to barber.527@osu.edu. 
