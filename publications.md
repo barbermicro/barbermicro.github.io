@@ -9,7 +9,7 @@ layout: default
 
 **Barber, F.**, Akbary, Z., Yuan, Z., Biboy, J., Vollmer, W., Rojas, E. R., (2024). Wall teichoic acids regulate peptidoglycan synthesis to maintain rod-shape in Bacillus subtilis. Nature Microbiology (in press). <https://doi.org/10.1101/2024.09.02.610702>.
 
-Bardetti, P., **Barber, F.**, Rojas, E. R., (2024). Non-linear stress-softening of the bacterial cell wall confers cell shape homeostasis. bioRxiv. <https://doi.org/10.1101/2024.09.03.611099>
+Bardetti, P., **Barber, F.**, Rojas, E. R., (2024). Non-linear stress-softening of the bacterial cell wall confers cell shape homeostasis. Current Biology 36(5). <https://doi.org/10.1101/2024.09.03.611099>
 
 **Barber, F.**, Min, J., Murray, A. W., Amir, A. (2021). Modeling the impact of single-cell stochasticity and size control on the population growth rate in asymmetrically dividing cells. PLOS Computational Biology 17(6): e1009080. <https://doi.org/10.1371/journal.pcbi.1009080>.
 
