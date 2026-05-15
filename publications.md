@@ -7,7 +7,7 @@ layout: default
 - [Research](./research.html)
 
 
-**Barber, F.**, Yuan, Z., Akbary, Z., Biboy, J., Vollmer, W., Rojas, E. R., (2024). Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure. bioRxiv. <https://doi.org/10.1101/2024.09.02.610702>.
+**Barber, F.**, Akbary, Z., Yuan, Z., Biboy, J., Vollmer, W., Rojas, E. R., (2024). Wall teichoic acids regulate peptidoglycan synthesis to maintain rod-shape in Bacillus subtilis. Nature Microbiology (in press). <https://doi.org/10.1101/2024.09.02.610702>.
 
 Bardetti, P., **Barber, F.**, Rojas, E. R., (2024). Non-linear stress-softening of the bacterial cell wall confers cell shape homeostasis. bioRxiv. <https://doi.org/10.1101/2024.09.03.611099>
 
