@@ -10,7 +10,7 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 ## Updates
 
 5/15/26: Lab retreat saw us all exploring Highbanks Metro Park and enjoying some tasty Ramen. Not pictured: Alli demolishing us all in minigolf!
-<img src="/assets/2026_May_retreat.jpg" alt="Barber Lab">
+<img src="/assets/2026_May_retreat.jpg" alt="Lab Retreat May 2026">
 
 5/4/26: Congratulations to Blair Banker, whose proposal on PbpC function in the divisome was just selected for an OSU Honors undergraduate research scholarship!
 
