@@ -9,7 +9,7 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 ## Updates
 
-5/26/26: A new publication from Felix's postdoc work is out in Nature Microbiology! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis to maintain rod shape in Bacillus subtilis](https://www.nature.com/articles/s41564-026-02368-6)
+5/26/26: A new publication from Felix's postdoc work is out in Nature Microbiology! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis to maintain rod shape in *Bacillus subtilis*](https://www.nature.com/articles/s41564-026-02368-6)
 
 5/15/26: Lab retreat saw us exploring Highbanks Metro Park and enjoying some tasty Ramen. Not pictured: Alli demolishing us all in minigolf!
 <img src="/assets/2026_May_retreat.jpg" alt="Lab Retreat May 2026">
