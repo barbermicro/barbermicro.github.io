@@ -9,6 +9,8 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 ## Updates
 
+5/26/26: A new publication from Felix's postdoc work is out in Nature Microbiology! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.nature.com/articles/s41564-026-02368-6)
+
 5/15/26: Lab retreat saw us exploring Highbanks Metro Park and enjoying some tasty Ramen. Not pictured: Alli demolishing us all in minigolf!
 <img src="/assets/2026_May_retreat.jpg" alt="Lab Retreat May 2026">
 
@@ -17,8 +19,6 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 3/27/26: Vini Subramanian, a biophysics graduate student, has joined the lab! Welcome, Vini!
 
 The Barber lab is now open, and we are always looking for driven, new scientists. If the fundamentals of bacterial growth and form sound like you, get in touch! Please send all inquiries to barber.527@osu.edu. 
-
-We uploaded our latest paper to bioRxiv! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.biorxiv.org/content/10.1101/2024.09.02.610702v2)
 
 ## Code
 
