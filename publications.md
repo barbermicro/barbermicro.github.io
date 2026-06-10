@@ -22,7 +22,7 @@ Tallon, J. L., **Barber, F.**, Storey, J. G., & Loram, J. W. (2013). Coexistence
 
 <img src="/assets/cover_submission_RGB.png" alt="*B. subtilis* depleted for wall teichoic acids growing in a microfluidic chip. Nascent sites of peptidoglycan crosslinking are labeled with fluorescent D-amino acids. Red: AlexaFluor 647." width="400">
 
-*B. subtilis* depleted for wall teichoic acids growing in a microfluidic chip. Nascent sites of peptidoglycan crosslinking are labeled with fluorescent D-amino acids. Red: AlexaFluor 647.
+*B. subtilis* depleted for wall teichoic acids growing in a microfluidic chip. Nascent sites of peptidoglycan crosslinking are labeled in blue with fluorescent D-amino acids. Red: AlexaFluor 647.
 
 
 [back](./)
