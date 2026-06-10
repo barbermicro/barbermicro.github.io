@@ -9,6 +9,8 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 ## Updates
 
+6/9/26: Interested in how bacteria maintain rod shape? This research briefing, out today in Nature Microbiology, quickly and accessibly explains the core findings of our recent paper on how a non-structural cell wall component allows Bacillus subtilis to keep its shape. Check it out for free here: [Wall teichoic acids plug nanopores in *Bacillus subtilis* cell walls and regulate peptidoglycan synthesis](https://www.nature.com/articles/s41564-026-02400-9.epdf?sharing_token=Gh5IZrkr9eS8mHk4GOCwe9RgN0jAjWel9jnR3ZoTv0NDHFEZ6GL6OGX7O6Ais_sO-hppPtkvexgZYojSfanhu2ZqkCbXa9Kg62EB1p0ZLadyalQ2rJdmyZmWCEjavXOw0HYOmT9xQFYYjP0IXpzwfgGbm8-8uK2L6u8pbnlA8Uc%3D)
+
 5/26/26: A new publication from Felix's postdoc work is out in Nature Microbiology! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis to maintain rod shape in *Bacillus subtilis*](https://www.nature.com/articles/s41564-026-02368-6)
 
 5/15/26: Lab retreat saw us exploring Highbanks Metro Park and enjoying some tasty Ramen. Not pictured: Alli demolishing us all in minigolf!
