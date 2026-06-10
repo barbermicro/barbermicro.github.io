@@ -4,6 +4,7 @@
 - [Lab Members](./lab_members.html)
 - [Publications](./publications.html)
 - [Research](./research.html)
+- [Press Coverage](./press_coverage.html)
 
 We study bacterial growth and shape, using the tools of modern microscopy, computation, molecular biology and mathematics to tackle fundamental questions in bacterial biology with relevance for human health.
 
