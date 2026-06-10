@@ -21,6 +21,7 @@ Bardetti, P., **Barber, F.**, Fitzmaurice, D., Rojas, E. R., (2026). Non-linear 
 Tallon, J. L., **Barber, F.**, Storey, J. G., & Loram, J. W. (2013). Coexistence of the superconducting energy gap and pseudogap above and below the transition temperature of cuprate superconductors. Physical Review B, 87(14), 140508. <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.87.140508>
 
 <img src="/assets/cover_submission_RGB.png" alt="*B. subtilis* depleted for wall teichoic acids growing in a microfluidic chip. Nascent sites of peptidoglycan crosslinking are labeled with fluorescent D-amino acids. Red: AlexaFluor 647." width="400">
+
 *B. subtilis* depleted for wall teichoic acids growing in a microfluidic chip. Nascent sites of peptidoglycan crosslinking are labeled with fluorescent D-amino acids. Red: AlexaFluor 647.
 
 
