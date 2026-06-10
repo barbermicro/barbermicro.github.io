@@ -9,6 +9,8 @@ layout: default
 
 # Press coverage
 
+[Nature Microbiology](https://www.nature.com/articles/s41564-026-02400-9.epdf?sharing_token=Gh5IZrkr9eS8mHk4GOCwe9RgN0jAjWel9jnR3ZoTv0NDHFEZ6GL6OGX7O6Ais_sO-hppPtkvexgZYojSfanhu2ZqkCbXa9Kg62EB1p0ZLadyalQ2rJdmyZmWCEjavXOw0HYOmT9xQFYYjP0IXpzwfgGbm8-8uK2L6u8pbnlA8Uc%3D)
+
 [The Microbiologist](https://www.the-microbiologist.com/news/scientists-determine-how-mysterious-acids-give-bacteria-their-shape/9028.article)
 
 [AZO Life Sciences](https://www.azolifesciences.com/news/20260527/Scientists-Reveal-How-Surface-Acids-Prevent-Bacteria-From-Blobbing.aspx)
