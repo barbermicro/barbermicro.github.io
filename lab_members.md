@@ -5,6 +5,7 @@ layout: default
 - [Home](.)
 - [Publications](./publications.html)
 - [Research](./research.html)
+- [Press Coverage](./press_coverage.html)
 
 # Who we are
 
