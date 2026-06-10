@@ -5,6 +5,7 @@ layout: default
 - [Home](.)
 - [Lab Members](./lab_members.html)
 - [Research](./research.html)
+- [Press Coverage](./press_coverage.html)
 
 
 **Barber, F.**, Akbary, Z., Yuan, Z., Biboy, J., Vollmer, W., Rojas, E. R., (2026). Wall teichoic acids regulate peptidoglycan synthesis to maintain rod-shape in Bacillus subtilis. Nature Microbiology (in press). <https://doi.org/10.1101/2024.09.02.610702>.
