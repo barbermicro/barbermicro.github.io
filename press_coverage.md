@@ -21,5 +21,5 @@ layout: default
 
 [Bioquick News](https://urldefense.com/v3/__https://bioquicknews.com/scientists-determine-how-mysterious-acids-give-rod-shaped-bacteria-their-shape/__;!!KGKeukY!0CSs-Mz6Q-3VLvu0fz3cLxwaH_r39acD_AqtuGby_G5ooO-jVpoWHOJZSiFKGl0I2Tg9GmwKPlktjF0GcrhDWGr8jz_zS1g$)
 
-<img src="/assets/TEM_cover_art_submission.jpg" alt="False colored image showing *B. subtilis* cells fully depleted for wall teichoic acids and imaged with transmission electron microscopy.">
+<img src="/assets/TEM_cover_art_submission.jpg" alt="False colored image showing *B. subtilis* cells fully depleted for wall teichoic acids and imaged with transmission electron microscopy." width="400">
 
