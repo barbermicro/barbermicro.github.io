@@ -26,4 +26,4 @@ layout: default
 ### [Felix Barber](https://felixbarber.com) — PI
 
 ### Alumni
-Alana Guo — undergraduate at Ohio State University
+Alana Guo — undergraduate, Ohio State University
