@@ -17,9 +17,6 @@ layout: default
 
 ### Blair Banker — Undergraduate
 
-<img src="/assets/alana_guo.png" alt="Alana Guo" width="150" height="200">
-### Alana Guo — Undergraduate
-
 <img src="/assets/alli_heeringa.jpg" alt="Alli Heeringa" width="150" height="200">
 
 ### [Alli Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
@@ -27,3 +24,6 @@ layout: default
 <img src="/assets/Felix_Barber.jpg" alt="Felix Barber" width="150" height="200">
 
 ### [Felix Barber](https://felixbarber.com) — PI
+
+### Alumni
+Alana Guo — undergraduate at Ohio State University
