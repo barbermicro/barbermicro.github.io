@@ -1,7 +1,7 @@
 <img src="/assets/TEM_compilation.png" alt="Transmission electron microscopy of Bacillus subtilis cells">
 
 # Home
-- [Lab Members](./lab_members.html)
+- [People](./lab_members.html)
 - [Publications](./publications.html)
 - [Research](./research.html)
 - [Press Coverage](./press_coverage.html)
