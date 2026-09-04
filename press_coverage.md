@@ -5,7 +5,7 @@ layout: default
 - [Home](.)
 - [Publications](./publications.html)
 - [Research](./research.html)
-- [Lab Members](./lab_members.html)
+- [People](./lab_members.html)
 
 # Press coverage
 
