@@ -3,7 +3,7 @@ layout: default
 ---
 
 - [Home](.)
-- [Lab Members](./lab_members.html)
+- [People](./lab_members.html)
 - [Research](./research.html)
 - [Press Coverage](./press_coverage.html)
 
