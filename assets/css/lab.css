@@ -273,7 +273,7 @@ ol.pubs > li::before {
   color: var(--green-dim);
 }
 ol.pubs strong { color: #fff; font-weight: 600; }
-ol.pubs a {                              /* [paper] [doi] [bioRxiv] chips */
+ol.pubs a {                              /* [doi] / [bioRxiv] / [research briefing] chips */
   margin-right: 4px;
   padding: 1px 6px;
   font-size: 13px;
