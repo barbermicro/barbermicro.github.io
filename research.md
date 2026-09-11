@@ -11,7 +11,10 @@ The bacterial cell wall is an essential polymeric exoskeleton that both prevents
 
 <div class="figs">
 <figure>
-  <video src="/assets/WT_Tun_5min.mp4" poster="/assets/WT_Tun_5min_poster.jpg" width="290" height="290" autoplay loop muted playsinline aria-label="Time-lapse of Bacillus subtilis cells treated with tunicamycin"></video>
+  <video poster="/assets/WT_Tun_5min_poster.jpg" width="290" height="290" autoplay loop muted playsinline aria-label="Time-lapse of Bacillus subtilis cells treated with tunicamycin">
+    <source src="/assets/WT_Tun_5min.webm" type="video/webm">
+    <source src="/assets/WT_Tun_5min.mp4" type="video/mp4">
+  </video>
   <figcaption>Tunicamycin treatment of <em>Bacillus subtilis</em> cells.</figcaption>
 </figure>
 <figure>
