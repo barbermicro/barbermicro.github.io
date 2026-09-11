@@ -1,29 +1,16 @@
 ---
 layout: default
+title: People
 ---
-
-- [Home](.)
-- [Publications](./publications.html)
-- [Research](./research.html)
-- [Press Coverage](./press_coverage.html)
 
 # Who we are
 
-<img src="/assets/Felix_Barber.jpg" alt="Felix Barber" width="150" height="200">
+- ![Felix Barber](/assets/Felix_Barber.jpg) **[Felix Barber](https://felixbarber.com)** PI
+- ![Alli Heeringa](/assets/alli_heeringa.jpg) **[Alli Heeringa](https://www.linkedin.com/in/allison-heeringa)** Lab Manager
+- ![Manasvini Subramanian](/assets/vini_subramanian.jpg) **[Manasvini Subramanian](https://www.linkedin.com/in/manasvini-subramanian-186bb8237/)** Graduate Student
+- ![Blair Banker](/assets/blair_banker.jpg) **Blair Banker** Undergraduate
+{: .people}
 
-### [Felix Barber](https://felixbarber.com) — PI
+## Alumni
 
-<img src="/assets/alli_heeringa.jpg" alt="Alli Heeringa" width="150" height="200">
-
-### [Alli Heeringa](https://www.linkedin.com/in/allison-heeringa) — Lab Manager
-
-<img src="/assets/vini_subramanian.png" alt="Manasvini Subramanian" width="150" height="200">
-
-### [Manasvini Subramanian](https://www.linkedin.com/in/manasvini-subramanian-186bb8237/) — Graduate Student
-
-<img src="/assets/blair_banker.png" alt="Blair Banker" width="150" height="200">
-
-### Blair Banker — Undergraduate
-
-### Alumni
-Alana Guo — undergraduate, Ohio State University
+- Alana Guo — undergraduate, Ohio State University

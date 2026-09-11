@@ -1,0 +1,11 @@
+# Site menu, shown on every page (edit here, not in each page).
+- title: home
+  url: /
+- title: people
+  url: /lab_members.html
+- title: research
+  url: /research.html
+- title: publications
+  url: /publications.html
+- title: press
+  url: /press_coverage.html
