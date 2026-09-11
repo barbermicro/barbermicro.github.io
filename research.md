@@ -19,6 +19,6 @@ The bacterial cell wall is an essential polymeric exoskeleton that both prevents
 </figure>
 <figure>
   <img src="/assets/TEM_bacillus_TEM_false_color-08-04-2026-17-06-31.jpg" alt="False-colored transmission electron micrograph of wild-type Bacillus subtilis" width="1200" height="1200" loading="lazy">
-  <figcaption>False colored image showing wild-type <em>B. subtilis</em> cells imaged with transmission electron microscopy.</figcaption>
+  <figcaption>False-colored wild-type <em>B. subtilis</em> cells, captured by transmission electron microscopy.</figcaption>
 </figure>
 </div>

@@ -15,5 +15,5 @@ title: Press coverage
 
 <figure class="small">
   <img src="/assets/TEM_cover_art_submission.jpg" alt="False-colored transmission electron micrograph of Bacillus subtilis cells fully depleted for wall teichoic acids" width="1000" height="1325" loading="lazy">
-  <figcaption>False colored image showing <em>B. subtilis</em> cells fully depleted for wall teichoic acids and imaged with transmission electron microscopy.</figcaption>
+  <figcaption>False-colored <em>B. subtilis</em> cells fully depleted for wall teichoic acids, captured by transmission electron microscopy.</figcaption>
 </figure>
