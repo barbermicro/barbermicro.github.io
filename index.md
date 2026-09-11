@@ -4,7 +4,7 @@ layout: default
 
 <figure class="hero">
   <img src="/assets/TEM_compilation.jpg" alt="Transmission electron micrographs of Bacillus subtilis cells" width="1918" height="382">
-  <figcaption><em>Bacillus subtilis</em> cells imaged by transmission electron microscopy. Scale bars, 500 nm.</figcaption>
+  <figcaption>Transmission electron micrographs of <em>Bacillus subtilis</em> cells. Scale bars: 500 nm.</figcaption>
 </figure>
 
 We study bacterial growth and shape, using the tools of modern microscopy, computation, molecular biology and mathematics to tackle fundamental questions in bacterial biology with relevance for human health.
