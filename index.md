@@ -25,14 +25,11 @@ We study bacterial growth and shape, using the tools of modern microscopy, compu
 
 ## Code
 
-Our code is publicly available at [GitHub](https://github.com/felixbarber/WTA_peptidoglycan_nanostructure). More of Felix's code is at [github.com/felixbarber](https://github.com/felixbarber).
+Our code is publicly available at [GitHub](https://github.com/felixbarber/WTA_peptidoglycan_nanostructure).
 
 ## Contact
 
 - **office** Riffe R905, 496 W 12th Ave, Columbus, OH 43210, United States
-- **email** [barber.527@osu.edu](mailto:barber.527@osu.edu)
-- **github** [github.com/felixbarber](https://github.com/felixbarber)
-- **linkedin** [linkedin.com/in/felix-barber](https://www.linkedin.com/in/felix-barber)
 {: .contact}
 
 <figure class="narrow">

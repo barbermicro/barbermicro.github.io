@@ -245,19 +245,6 @@ ul.people strong {                       /* name */
 ul.people strong a { color: var(--text); text-shadow: none; text-decoration-color: var(--green-dim); }
 ul.people strong a:hover { color: var(--green); }
 
-ul.people li > a {                       /* [email] [github] [linkedin] under a name */
-  display: inline-block;
-  margin: 6px 8px 0 0;
-  font-size: 12px;
-  letter-spacing: 0;
-  text-transform: none;
-  text-decoration: none;
-  text-shadow: none;
-}
-ul.people li > a::before { content: "["; color: var(--muted); }
-ul.people li > a::after  { content: "]"; color: var(--muted); }
-ul.people li > a:hover { color: var(--green); }
-
 /* ---------- contact block (home) ---------- */
 
 ul.contact { margin: 0 0 24px; padding: 0; }
