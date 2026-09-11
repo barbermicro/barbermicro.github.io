@@ -1,15 +1,27 @@
 theme: jekyll-theme-hacker
-title: [Barber Lab]
-description: [Studying quantitative bacterial physiology since 2025.]
-logo: /assets/TEM_compilation.png
+title: Barber Lab
+description: Studying quantitative bacterial physiology since 2025.
+url: https://barbermicro.com
+lang: en-US
+logo: /assets/TEM_compilation.jpg
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Link previews (X, LinkedIn, Slack, iMessage)
+twitter:
+  username: FelixBarber9
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-card.jpg
+
+# Shown in the footer of every page
 social-network-links:
   email: "barber.527@osu.edu"
   github: felixbarber
   twitter: FelixBarber9
   linkedin: felix-barber
-  
-  # Select which social network share links to show in posts
-share-links-active: 
-  twitter: true
-  linkedin: true

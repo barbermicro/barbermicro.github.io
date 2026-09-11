@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#151515">
+    <!-- Security: the site only loads files from itself. Browsers will refuse any script,
+         frame or media from another domain, including anything pasted into a page by mistake.
+         Adding an embed (YouTube, analytics, a form)? Add its domain to the matching directive. -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self'; font-src 'self'; media-src 'self'; connect-src 'none'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <link rel="preload" href="{{ '/assets/fonts/IBMPlexMono-Regular-Latin1.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/lab.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/assets/favicon-32.png' | relative_url }}" sizes="32x32" type="image/png">
+    <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+    <script src="{{ '/assets/js/lab.js' | relative_url }}" defer></script>
+{% seo %}
+  </head>
+
+  <body>
+    <a class="skip-link" href="#main_content">Skip to content</a>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | escape }}</h1>
+        </a>
+        <h2>{{ site.description | escape }}</h2>
+
+        <nav class="site-nav" aria-label="Main">
+          {%- for item in site.data.navigation %}
+          <a href="{{ item.url | relative_url | escape }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+          {%- endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <div class="container">
+      <main id="main_content">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>
+          <strong>{{ site.title | escape }}</strong> · Department of Microbiology · The Ohio State University
+          <span class="build-stamp">· updated {{ site.time | date: "%Y-%m-%d" }}</span>
+        </p>
+        {%- assign links = site.social-network-links %}
+        <p class="footer-links">
+          {%- if links.email %}<a href="mailto:{{ links.email | escape }}">email</a>{% endif %}
+          {%- if links.github %}<a href="https://github.com/{{ links.github | escape }}">github</a>{% endif %}
+          {%- if links.twitter %}<a href="https://x.com/{{ links.twitter | escape }}">x</a>{% endif %}
+          {%- if links.linkedin %}<a href="https://www.linkedin.com/in/{{ links.linkedin | escape }}">linkedin</a>{% endif %}
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
