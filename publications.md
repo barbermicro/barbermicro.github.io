@@ -13,6 +13,8 @@ title: Publications
 6. Tallon, J. L., **Barber, F.**, Storey, J. G., Loram, J. W. (2013). Coexistence of the superconducting energy gap and pseudogap above and below the transition temperature of cuprate superconductors. *Physical Review B* 87(14), 140508. [doi](https://doi.org/10.1103/PhysRevB.87.140508)
 {: .pubs}
 
+Code for our papers is on [GitHub](https://github.com/felixbarber). For a copy of any paper, email [barber.527@osu.edu](mailto:barber.527@osu.edu).
+
 <figure class="small">
   <img src="/assets/cover_submission_RGB.jpg" alt="Bacillus subtilis depleted for wall teichoic acids growing in a microfluidic chip" width="1000" height="1000" loading="lazy">
   <figcaption><em>B. subtilis</em> depleted for wall teichoic acids growing in a microfluidic chip. Nascent sites of peptidoglycan crosslinking are labeled in blue with fluorescent D-amino acids. Red: AlexaFluor 647.</figcaption>

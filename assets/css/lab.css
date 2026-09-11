@@ -245,6 +245,30 @@ ul.people strong {                       /* name */
 ul.people strong a { color: var(--text); text-shadow: none; text-decoration-color: var(--green-dim); }
 ul.people strong a:hover { color: var(--green); }
 
+ul.people li > a {                       /* [email] [github] [linkedin] under a name */
+  display: inline-block;
+  margin: 6px 8px 0 0;
+  font-size: 12px;
+  letter-spacing: 0;
+  text-transform: none;
+  text-decoration: none;
+  text-shadow: none;
+}
+ul.people li > a::before { content: "["; color: var(--muted); }
+ul.people li > a::after  { content: "]"; color: var(--muted); }
+ul.people li > a:hover { color: var(--green); }
+
+/* ---------- contact block (home) ---------- */
+
+ul.contact { margin: 0 0 24px; padding: 0; }
+ul.contact > li { position: relative; padding: 0 0 6px 7em; list-style: none; }
+ul.contact > li > strong:first-child {    /* label column */
+  position: absolute;
+  left: 0;
+  font-weight: 400;
+  color: var(--amber);
+}
+
 /* ---------- publications ---------- */
 
 ol.pubs { margin: 0 0 32px; padding: 0; counter-reset: pub; }
@@ -326,6 +350,7 @@ ul.press > li > strong:first-child {     /* outlet */
   ul.log > li > strong:first-child { position: static; display: block; }
   ul.people { grid-template-columns: repeat(2, 1fr); gap: 28px 16px; }
   ol.pubs > li { padding-left: 2.8em; }
+  ul.contact > li { padding-left: 5.5em; }
 }
 
 @media (prefers-reduced-motion: reduce) {
